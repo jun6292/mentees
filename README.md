@@ -2,15 +2,6 @@
 ## Web Project
 ### Mentees
 
-`HTML` `CSS` `Javascript` `MySQL` `JSP` `Servlet`
-- 
-- 
-- 
+`HTML` `CSS` `JavaScript` `MySQL` `JSP` `Servlet` `JSTL` `EL`
 
-
-| files | summary |
-|---|---|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+- Mentoring platform
